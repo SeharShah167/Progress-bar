@@ -10,9 +10,9 @@ This project demonstrates the implementation of a customizable progress bar usin
 
 ## Demo
 
-![Progress Bar Demo](https://drive.google.com/file/d/1EkiV9j7aH1WZY2bidzCa8XmpP2etg4uk/view?usp=sharing)
+[Watch the vedio for Demo](https://drive.google.com/file/d/1EkiV9j7aH1WZY2bidzCa8XmpP2etg4uk/view?usp=sharing)
 
-*GIF showcasing the progress bar in action.*
+*Vedio showcasing the progress bar in action.*
 
 ## Usage
 
@@ -27,4 +27,3 @@ To view and interact with the progress bar:
 - `styles.css`: Defines the visual appearance, animations, and transitions of the progress bar.
 - `script.js`: Implements JavaScript functionality to update and manage the progress bar behavior.
 
-## Example Code
