@@ -10,7 +10,7 @@ This project demonstrates the implementation of a customizable progress bar usin
 
 ## Demo
 
-![Progress Bar Demo](https://example.com/progress-bar-demo.gif)
+![Progress Bar Demo](https://drive.google.com/file/d/1EkiV9j7aH1WZY2bidzCa8XmpP2etg4uk/view?usp=sharing)
 
 *GIF showcasing the progress bar in action.*
 
